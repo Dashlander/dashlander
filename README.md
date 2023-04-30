@@ -1,7 +1,7 @@
 # Down into the Rabbit Hole we Go!
 
 1. Hi, I’m Nishant Tatar, and my Github is [@Dashlander](https://github.com/Dashlander)
-2. I’m interested in Systems Programming, Linux, Android Dev, and Basic Networking technologies.
+2. I’m interested in Systems Programming, Linux, and Basic Networking technologies.
 3. Some things about me:
   - I wish to contribute to Open Source, having your code out there that other people would use for their needs is a very cathartic experience.
   - Just starting out my journey as a Developer.
