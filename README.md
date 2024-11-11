@@ -8,7 +8,7 @@
   - I've been using Linux for the past 7 years.
   - Installed Arch as a calming exercise everytime I'm stressed... Talk about unhealthy coping mechanisms...
 
-If you're interested in talking about Linux, Systems, Computer Architecture, FOSS, or Tech in General, hit me up. You can reach me over Discord: Dashlander#3660 or [LinkedIn](https://www.linkedin.com/in/nishant-tatar-96b2b6227/).
+If you're interested in talking about Linux, Systems, Computer Architecture, FOSS, or Tech in General, hit me up. You can reach me over Discord: Dashlander#3660 or [LinkedIn](https://www.linkedin.com/in/dashlander/).
 
 <!---
 Dashlander/Dashlander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
