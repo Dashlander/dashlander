@@ -10,6 +10,7 @@
   - Installed Arch as a calming exercise everytime I'm stressed... Talk about unhealthy coping mechanisms...
 
 If you're interested in talking about Linux, FOSS, or Tech in General, hit me up. You can reach me over Discord: dashlander or [LinkedIn](https://www.linkedin.com/in/dashlander/).
+
 Find my website [here](https://dashlander.github.io/). I hope to have an archival of my projects, academic and personal both.
 
 <!---
