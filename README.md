@@ -1,8 +1,7 @@
 # Down into the Rabbit Hole we Go!
 
-1. Hi, I’m Nishant Tatar, and my Github is [@Dashlander](https://github.com/Dashlander)
-2. I’m interested in Linux and Basic Networking technologies.
-3. Some things about me:
+1. Hi, I’m Nishant Tatar, and my Github is [@Dashlander](https://github.com/Dashlander).
+2. Some things about me:
   - I did my bachelors from IIT Gandhinagar.
   - I majored in Materials Science, with a minors in Computer Science.
   - I love exploring about random niche topics to satiate my curiosity.
